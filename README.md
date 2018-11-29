@@ -1,2 +1,2 @@
 # python-learning
-Python使用心得
+Python使用
